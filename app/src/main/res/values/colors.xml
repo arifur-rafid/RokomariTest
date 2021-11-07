@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bottom_nav_color">#ffbd96</color>
+    <color name="tab_checked">#FFFFFFFF</color>
+    <color name="tab_unchecked">#FF000000</color>
+    <color name="floating_button_color">#ed6415</color>
+    <color name="gray">#ebebeb</color>
+    <color name="task_name_color">#8c3c3c</color>
+    <color name="layout_background">#fff7e6</color>
+    <color name="light_green">#94db60</color>
 </resources>
